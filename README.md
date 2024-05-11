@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alex, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+<h1>Hi, I'm Alex, an <a href="(https://www.linkedin.com/in/alex-shephard-3878a0301/)">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
