@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b>My Website</b>
+  - [Click here to view.](https://ashep1337.github.io/shephards.llc/)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/ashep1337/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/ashep1337/post-install-config)
