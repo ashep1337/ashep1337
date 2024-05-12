@@ -9,8 +9,10 @@
   - [osTicket: Post-Installation Configuration](https://github.com/ashep1337/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ashep1337/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Configuring Active Directory within Azure VMs](https://github.com/ashep1337/configure_ad)
+  - [Active Directory- Network File Sharing and Permissions](https://github.com/ashep1337/Network-File-Sharing-and-Permissions)
+  - [DNS Record Activity](https://github.com/ashep1337/Record-Creation-and-Observation)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ashep1337/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocol)
 - <b>Linux</b>
   - [Installing Linux on to bootable media](https://github.com/ashep1337/linux-deployment)
   - [SSH into Linux from Windows](https://github.com/ashep1337/ssh_linux)
