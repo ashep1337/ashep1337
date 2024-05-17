@@ -16,6 +16,7 @@
 - <b>Linux</b>
   - [Installing Linux on to bootable media](https://github.com/ashep1337/linux-deployment)
   - [SSH into Linux from Windows](https://github.com/ashep1337/ssh_linux)
+  - [Creating Windows SMB File Share with TrueNAS](https://github.com/ashep1337/trueNAS)
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Alex | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
