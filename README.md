@@ -19,11 +19,13 @@
   - [Docker Setup](https://github.com/ashep1337/Debian-Headless-Server/tree/main/03_Docker_And_Containers)
   - [Apps](https://github.com/ashep1337/Debian-Headless-Server/tree/main/04_App_Setup)
   - [Frequently Used Commands](https://github.com/ashep1337/Debian-Headless-Server/tree/main/00_Commands)
-  
 - <b>Linux</b>
   - [Installing Linux on to bootable media](https://github.com/ashep1337/linux-deployment)
   - [SSH into Linux from Windows](https://github.com/ashep1337/ssh_linux)
   - [Creating Windows SMB File Share with TrueNAS](https://github.com/ashep1337/trueNAS)
+- <b>Microcontrollers and 3d Printing</b>
+  - [Esp32 Cam webpage with Wifi Manager - Snapshot and Relay function](https://github.com/ashep1337/ESP32/blob/main/relaywithcam2.txt)
+  - [Full repo for STLs I've designed](https://github.com/ashep1337/ESP32)
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Alex | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
