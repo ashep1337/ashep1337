@@ -13,6 +13,12 @@
   - [Active Directory- Network File Sharing and Permissions](https://github.com/ashep1337/Network-File-Sharing-and-Permissions)
   - [DNS Record Activity](https://github.com/ashep1337/Record-Creation-and-Observation)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ashep1337/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocol)
+- <b>Debian Headless Server Instructions</b>
+  - [Filesystems, Partitions, Mounting, RAID, and Samba](https://github.com/ashep1337/Debian-Headless-Server/tree/main/01_Getting_Started)
+  -
+  -
+  -
+  
 - <b>Linux</b>
   - [Installing Linux on to bootable media](https://github.com/ashep1337/linux-deployment)
   - [SSH into Linux from Windows](https://github.com/ashep1337/ssh_linux)
