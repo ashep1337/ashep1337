@@ -15,9 +15,10 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ashep1337/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocol)
 - <b>Debian Headless Server Instructions</b>
   - [Filesystems, Partitions, Mounting, RAID, and Samba](https://github.com/ashep1337/Debian-Headless-Server/tree/main/01_Getting_Started)
-  -
-  -
-  -
+  - [NordVPN and Meshnet setup for remote access to network and private browsing](https://github.com/ashep1337/Debian-Headless-Server/tree/main/02_NordVPN)
+  - [Docker Setup](https://github.com/ashep1337/Debian-Headless-Server/tree/main/03_Docker_And_Containers)
+  - [Apps](https://github.com/ashep1337/Debian-Headless-Server/tree/main/04_App_Setup)
+  - [Frequently Used Commands](https://github.com/ashep1337/Debian-Headless-Server/tree/main/00_Commands)
   
 - <b>Linux</b>
   - [Installing Linux on to bootable media](https://github.com/ashep1337/linux-deployment)
